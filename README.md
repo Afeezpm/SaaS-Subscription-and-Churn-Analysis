@@ -13,6 +13,7 @@ Data-driven deep dive into a SaaS business: who churns, why they churn, what it 
   - `ravenstack_support_tickets.csv`
 - **Processed data** (created by the notebook):
   - `enhanced_saas_dataset.csv`
+- **Data Source :** https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset?utm_source=chatgpt.com
 
 ## 🧠 Key questions answered
 
