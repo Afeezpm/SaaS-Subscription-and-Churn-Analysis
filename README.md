@@ -73,6 +73,38 @@ Derived columns used throughout the analysis, including:
 - **Premium/high-value accounts churn slightly more** (~+5%) — they need white-glove care.
 - Trials, long-tenure cliffs (≈200 & 800+ days), and downgrades are **clear churn triggers**.
 
+## 🗂️ Project structure
+.
+├─ data/
+│  ├─ raw/              
+│  └─ processed/        
+├─ notebooks/
+│  └─ SaaS Subscription and Churn Analysis.ipynb
+├─ requirements.txt
+└─ README.md
 
+## ⚙️ Environment
+Python 3.12+
+Libraries: pandas, numpy, matplotlib, seaborn, jupyter
+
+## ▶️ How to run
+Clone the repo and cd into it.
+Create a virtual env:
+python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+Install deps:
+pip install -r requirements.txt
+Put the 5 raw CSVs into data/raw/.
+Launch Jupyter and open the notebook:
+jupyter notebook
+Run all cells. Outputs/processed CSVs will be created as coded in the notebook.
+
+## 📌 Roadmap
+Convert heavy notebook steps into reusable functions in src/.
+Add unit tests for feature engineering.
+Export key charts to reports/figures/ automatically.
+Optional: lightweight Streamlit dashboard for exec summaries.
+
+## 📄 License
+MIT
 
 
