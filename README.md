@@ -41,6 +41,28 @@ Derived columns used throughout the analysis, including:
 - Support/quality signals: `error_count`, `error_rate`, `support_ticket_flag`, `first_response_time_minutes`, `resolution_time_hours`, `escalation_flag`, `satisfaction_score`
 - Usage signals: `usage_count`, `avg_usage_per_day`, `is_beta_feature`
 
+## 📈 Visuals
+
+
+<img width="1029" height="653" alt="Screenshot 2025-09-09 143338" src="https://github.com/user-attachments/assets/793531a7-7ca5-4aa0-815e-e2e401a94b08" />
+
+
+<img width="1115" height="692" alt="Screenshot 2025-09-09 143651" src="https://github.com/user-attachments/assets/63c3f235-0688-4568-8ab6-c53a039cc046" />
+
+
+<img width="1129" height="571" alt="Screenshot 2025-09-09 143436" src="https://github.com/user-attachments/assets/c575a995-2e15-4480-8412-aeab3d98f439" />
+
+
+<img width="1148" height="609" alt="Screenshot 2025-09-09 143421" src="https://github.com/user-attachments/assets/bfd6e639-ed82-4dc2-8ac9-7df0576f028b" />
+
+
+<img width="1138" height="603" alt="Screenshot 2025-09-09 143526" src="https://github.com/user-attachments/assets/c2c57402-62fe-4c99-b8fa-d5fb5b59c60d" />
+
+
+<img width="1020" height="590" alt="Screenshot 2025-09-09 143453" src="https://github.com/user-attachments/assets/2037e883-a0b6-4c51-a0ae-d268aab50383" />
+
+
+
 ## 🧾 Takeaways (short and blunt)
 
 - **Churn is ~80%** of the customer base. That’s catastrophic.
